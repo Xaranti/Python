@@ -1,0 +1,65 @@
+[ERROR] <2022-01-20 11:24:14.0798> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label #!@$%^: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:14.3784> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label bug: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:14.6947> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label documentation: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:15.7548> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label duplicate: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:16.0263> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label enhancement: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:16.3259> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label good first issue: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:16.5899> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label help wanted: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:16.8562> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label invalid: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:17.1205> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label question: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:17.4148> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: streamProcessor (UploadTask.cs:176)
+    Cannot restore label wontfix: {"message":{"color":["must be a valid color code"]}}
+
+
+[ERROR] <2022-01-20 11:24:17.4148> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: CloseHandle (Storage.cs:793)
+    An exception was thrown: Exception, Message: GitLabels restore failure
+       at #WBg.#VBg.#OHd()
+       at #GSd.#OBg.#Uab()
+       at #GSd.#UBg.#Uab(Guid #TBg)
+       at BackupEngine.Plugins.Standard.Storages.GitCloud.GitCloudStorage.closeResourceHandle(ResourceHandle handle)
+       at BackupEngine.Storage.#9K.#1K()
+
+
+[ERROR] <2022-01-20 11:24:17.4148> Xopero.Core.Utils.EngineLogger 
+An error has occurred in member: CloseHandle (Storage.cs:768)
+    An exception was thrown: EngineException, Message: UnableToCloseResourceHandle
+       at BackupEngine.Storage.#9K.#1K()
+       at BackupEngine.CallTracing.Execute(Action action, String memberName, String filePath, Int32 lineNumber)
