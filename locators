@@ -1,0 +1,27 @@
+from selenium import webdriver
+import time
+from selenium.webdriver.common.keys import Keys
+from soupsieve import select
+from selenium.webdriver.support.select import Select
+from selenium.webdriver.common.by import By
+
+PATH = 'C:\Program Files (x86)\chromedriver.exe'
+driver = webdriver.Chrome(PATH)
+#driver.get("https://www.animezone.pl/anime/filmy")
+driver.get("https://login.salesforce.com/")
+driver.get("https://rahulshettyacademy.com/angularpractice/")
+time.sleep(2)
+#driver.find_element_by_xpath("//i[@class='fa fa-home']").click() #xpath samemu napisany
+#driver.find_element_by_css_selector("i[class='fa fa-home']").click() #css selector
+#print (driver.find_element_by_css_selector("i[class='fa fa-home']").text) # wyświetli text jaki posiada element
+#driver.find_element_by_css_selector(".form-control").send_keys('xd') # szukanie po classname poprzedamy kropka, a po id hasem
+#print(driver.find_element_by_css_selector(".alert-danger").text)
+#driver.find_element_by_xpath("//a[text()='Zapomniałem hasła']").click()
+#driver.find_element_by_xpath("//div[@id='usernamegroup']/label").send_keys("x")
+#driver.find_element_by_css_selector("div[id='usernamegroup'] label").send_keys("x"))
+
+#print(driver.find_element_by_xpath("//form[@name='login']/div[1]/label").text)
+
+dropdown = Select(driver.find_element(By.ID,"exampleFormControlSelect1"))
+dropdown.select_by_visible_text("Female")
+dropdown.select_by_index(0)
