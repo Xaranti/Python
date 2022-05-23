@@ -1,3 +1,9 @@
+import os
+os.system(r"D:\Pyt\regresja\FileBackUp\FileGen\GenerateProject 0")   <--- 0 to argument
+
+
+///////////////////////////////////////
+
 import subprocess
 
 filepath=r"D:\test\hello"
