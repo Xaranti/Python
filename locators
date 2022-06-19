@@ -29,3 +29,6 @@ dropdown.select_by_index(0)
 pomoc w wyszukiwaniu elementów w konsoli:
 document.querySelectorAll('.nazwa-klasy') -  daje mi wszystkie elementy które to spełniają
 document.querySelector('.nazwa-klasy') - daje mi 1 element na stronie jaki znajdzie
+
+
+VISIBLE TEXT!!!
