@@ -1,0 +1,160 @@
+[INFO] - 2022-06-30 15:07:13,419 - test_restoreBMR : BMR restore stared
+[INFO] - 2022-06-30 15:07:16,117 - test_restoreBMR : Main device set to restore
+[INFO] - 2022-06-30 15:09:00,837 - test_restoreBMR : BMR restore stared
+[INFO] - 2022-06-30 15:09:03,851 - test_restoreBMR : Main device set to restore
+[INFO] - 2022-06-30 15:14:12,644 - test_restoreBMR : BMR restore stared
+[INFO] - 2022-06-30 15:14:15,620 - test_restoreBMR : Main device set to restore
+[INFO] - 2022-06-30 15:14:54,556 - test_restoreBMR : BMR restore stared
+[INFO] - 2022-06-30 15:14:57,644 - test_restoreBMR : Main device set to restore
+[INFO] - 2022-06-30 15:14:58,235 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:14:59,964 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:15:53,406 - test_restoreBMR : BMR restore stared
+[INFO] - 2022-06-30 15:15:56,107 - test_restoreBMR : Main device set to restore
+[INFO] - 2022-06-30 15:16:44,623 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:16:47,285 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:16:47,285 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:22:42,074 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:22:44,718 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:22:44,718 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:22:45,169 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:22:48,447 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:24:21,793 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:24:24,611 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:24:24,611 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:24:25,021 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:24:27,643 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:25:39,030 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:25:41,895 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:25:41,895 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:25:42,293 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:25:45,352 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:35:12,335 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:35:15,427 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:35:15,428 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:35:15,820 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:35:17,683 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:36:27,421 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:36:30,165 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:36:30,165 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:36:30,549 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:36:33,443 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:38:11,733 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:38:14,657 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:38:14,657 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:38:15,323 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:38:17,714 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:38:48,269 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:38:50,980 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:38:50,980 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:38:51,447 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:38:53,512 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:38:59,207 - test_restoreBMR : Directory to restore set
+[INFO] - 2022-06-30 15:40:31,640 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:40:34,658 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:40:34,658 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:40:35,214 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:40:37,831 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:40:43,588 - test_restoreBMR : Directory to restore set
+[INFO] - 2022-06-30 15:41:21,980 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:41:25,210 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:41:25,210 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:41:25,614 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:41:27,311 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-06-30 15:41:33,063 - test_restoreBMR : Directory to restore set
+[INFO] - 2022-06-30 15:42:01,413 - test_restoreBMR : BMR restore started
+[INFO] - 2022-06-30 15:42:04,304 - test_restoreBMR : Main device set to restore
+[ERROR] - 2022-06-30 15:42:04,304 - test_restoreBMR : Plan list not found
+[INFO] - 2022-06-30 15:42:04,730 - test_restoreBMR : Restore Plan choosen
+[INFO] - 2022-06-30 15:42:07,675 - test_restoreBMR : Restore type set as BMR
+[INFO] - 2022-07-01 10:22:18,177 - test_login : User sucessfully logged
+[INFO] - 2022-07-01 10:22:24,789 - test_Add_Device : There are no devices to activate
+[INFO] - 2022-07-01 10:26:04,239 - test_login : User sucessfully logged
+[INFO] - 2022-07-01 10:26:14,594 - test_Add_Device : There are no devices to activate
+[INFO] - 2022-07-01 10:26:28,144 - test_addPlan : Plan name set as 'Backup HDD' 
+[INFO] - 2022-07-01 10:26:28,737 - test_addPlan : Main device choosen
+[ERROR] - 2022-07-01 10:26:34,217 - test_addPlan : Creating plan Failed
+[INFO] - 2022-07-01 10:27:26,395 - test_login : User sucessfully logged
+[INFO] - 2022-07-01 10:27:32,627 - test_Add_Device : There are no devices to activate
+[INFO] - 2022-07-01 10:27:46,490 - test_addPlan : Plan name set as 'Backup HDD' 
+[INFO] - 2022-07-01 10:27:47,155 - test_addPlan : Main device choosen
+[INFO] - 2022-07-01 10:27:48,103 - test_addPlan : Disk 'G:' set for backup
+[INFO] - 2022-07-01 10:27:50,425 - test_addPlan : Storage for HDD backup set as Xopero Storage
+[INFO] - 2022-07-01 10:27:51,056 - test_addPlan : Schedule set for 11:11
+[INFO] - 2022-07-01 10:27:52,118 - test_addPlan : Plan 'Backup HDD' started succesfully
+[INFO] - 2022-07-01 10:27:57,655 - test_systemDisk : Plan name set as 'System Disk Backup' 
+[INFO] - 2022-07-01 10:27:58,255 - test_systemDisk : Main device choosen
+[INFO] - 2022-07-01 10:27:59,279 - test_systemDisk : Disk 'C:' set for backup
+[INFO] - 2022-07-01 10:27:59,690 - test_systemDisk : Storage for HDD backup set as Xopero Storage
+[INFO] - 2022-07-01 10:28:00,273 - test_systemDisk : Schedule set for 11:11
+[INFO] - 2022-07-01 10:28:03,340 - test_systemDisk : Plan 'System Disk Backup' started succesfully
+[INFO] - 2022-07-01 10:28:08,813 - test_Xopero_Disk_Variable : Plan name set as 'Xopero Var Backup' 
+[INFO] - 2022-07-01 10:28:09,325 - test_Xopero_Disk_Variable : Main device choosen
+[INFO] - 2022-07-01 10:28:12,805 - test_Xopero_Disk_Variable : Storage for HDD backup set as Xopero Storage
+[INFO] - 2022-07-01 10:28:13,321 - test_Xopero_Disk_Variable : Schedule set for 11:11
+[INFO] - 2022-07-01 10:28:16,390 - test_Xopero_Disk_Variable : Plan 'System Disk Backup' started succesfully
+[INFO] - 2022-07-01 10:28:19,060 - test_prePlan : Predefined plan was successfuly added to device
+[WARNING] - 2022-07-01 10:28:21,415 - test_prePlan : Plan 'System Disk Backup' already exist
+[INFO] - 2022-07-01 10:28:21,736 - test_prePlan : Plan 'Endpoint&Server Total Protection' started as Full backup
+[INFO] - 2022-07-01 10:28:33,138 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:35,952 - test_restore_file_image : Restore set as RAW
+[INFO] - 2022-07-01 10:28:37,436 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:38,854 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:41,276 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:41,276 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:43,395 - test_restore_file_image : Restore set as VHD
+[INFO] - 2022-07-01 10:28:43,395 - test_restore_file_image : Restore set as VHD
+[INFO] - 2022-07-01 10:28:44,733 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:44,733 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:46,087 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:46,087 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:48,397 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:48,397 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:48,397 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:50,504 - test_restore_file_image : Restore set as VHDX
+[INFO] - 2022-07-01 10:28:50,504 - test_restore_file_image : Restore set as VHDX
+[INFO] - 2022-07-01 10:28:50,504 - test_restore_file_image : Restore set as VHDX
+[INFO] - 2022-07-01 10:28:52,199 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:52,199 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:52,199 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:53,605 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:53,605 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:53,605 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:28:56,163 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:56,163 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:56,163 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:56,163 - test_restore_file_image : Restore Plan choosen
+[INFO] - 2022-07-01 10:28:58,480 - test_restore_file_image : Restore set as VMDK
+[INFO] - 2022-07-01 10:28:58,480 - test_restore_file_image : Restore set as VMDK
+[INFO] - 2022-07-01 10:28:58,480 - test_restore_file_image : Restore set as VMDK
+[INFO] - 2022-07-01 10:28:58,480 - test_restore_file_image : Restore set as VMDK
+[INFO] - 2022-07-01 10:28:59,812 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:59,812 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:59,812 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:28:59,812 - test_restore_file_image : Folder already exist, starting restore
+[INFO] - 2022-07-01 10:29:01,181 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:29:01,181 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:29:01,181 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:29:01,181 - test_restore_file_image : Restore started successfuly
+[INFO] - 2022-07-01 10:29:01,208 - test_restoreBMR : BMR restore started
+[INFO] - 2022-07-01 10:29:17,956 - test_add_SMB_Storage : Name for SMB storage set as 'SMB'
+[INFO] - 2022-07-01 10:29:18,367 - test_add_SMB_Storage : Creating password for SMB
+[INFO] - 2022-07-01 10:29:23,141 - test_add_SMB_Storage : Password for SMB storage set
+[CRITICAL] - 2022-07-01 10:29:31,322 - test_add_SMB_Storage : SMB storage creation failed
+[INFO] - 2022-07-01 10:29:35,639 - test_add_NFS_Storage : Name for NFS storage set as 'NFS'
+[INFO] - 2022-07-01 10:29:39,058 - test_add_NFS_Storage : NFS storage created
+[INFO] - 2022-07-01 10:29:43,380 - test_add_S3_Storage : Name for S3 storage set as 'Minio S3'
+[INFO] - 2022-07-01 10:29:43,725 - test_add_S3_Storage : Creating password for MinioS3
+[INFO] - 2022-07-01 10:29:48,371 - test_add_S3_Storage : Password for MinioS3 storage set
+[INFO] - 2022-07-01 10:29:51,763 - test_add_S3_Storage : S3 storage created
+[INFO] - 2022-07-01 10:30:00,989 - test_xoperoStorage : Xopero storage is avaiable
+[INFO] - 2022-07-01 13:49:18,293 - test_add_SMB_Storage : Name for SMB storage set as 'SMB'
+[INFO] - 2022-07-01 13:49:18,696 - test_add_SMB_Storage : Creating password for SMB
+[INFO] - 2022-07-01 13:49:23,392 - test_add_SMB_Storage : Password for SMB storage set
+[CRITICAL] - 2022-07-01 13:49:31,967 - test_add_SMB_Storage : SMB storage creation failed
+[INFO] - 2022-07-01 13:49:36,432 - test_add_NFS_Storage : Name for NFS storage set as 'NFS'
+[INFO] - 2022-07-01 13:49:40,282 - test_add_NFS_Storage : NFS storage created
+[INFO] - 2022-07-01 13:49:44,670 - test_add_S3_Storage : Name for S3 storage set as 'Minio S3'
+[INFO] - 2022-07-01 13:49:45,101 - test_add_S3_Storage : Creating password for MinioS3
+[INFO] - 2022-07-01 13:49:49,824 - test_add_S3_Storage : Password for MinioS3 storage set
+[INFO] - 2022-07-01 13:49:53,755 - test_add_S3_Storage : S3 storage created
+[INFO] - 2022-07-01 13:50:02,992 - test_xoperoStorage : Xopero storage is avaiable
