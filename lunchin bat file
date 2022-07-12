@@ -1,0 +1,20 @@
+import os
+os.system(r"D:\Pyt\regresja\FileBackUp\FileGen\GenerateProject 0")   <--- 0 to argument
+
+
+///////////////////////////////////////
+
+import subprocess
+
+filepath=r"D:\test\hello"
+p = subprocess.Popen(filepath, shell=True, stdout = subprocess.PIPE)
+
+stdout, stderr = p.communicate()
+print (p.returncode) # is 0 if success
+
+
+/////////////////////////////////////////
+
+from subprocess import Popen
+p = Popen("batchfile.bat", cwd=r"D:\test\hello")
+stdout, stderr = p.communicate()
